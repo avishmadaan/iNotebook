@@ -1,6 +1,6 @@
 # iNotebook #
 
-Its a notes app built on react to help users manager their task list.
+Developed a task management application using React, allowing users to securely manage their notes. The app features user authentication, note creation, editing, and deletion capabilities.
 
 ## Features
 
