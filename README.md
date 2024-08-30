@@ -1,6 +1,6 @@
 # iNotebook #
 
-Its a notes app built on react to help users manager their to do list.
+Its a notes app built on react to help users manager their task list.
 
 ## Features
 
